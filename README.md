@@ -2,8 +2,8 @@
 It consists of the following micro-services - 
 1. FlightsAndSearch
 2. AuthService
-3. BookingService
-4. ReminderService
+3. BookingServices
+4. ReminderServices
 5. API_Gateway
 
 ## Project Setup
